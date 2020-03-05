@@ -1,0 +1,37 @@
+a {
+  padding: 0;
+}
+.navbar,
+a {
+  color: white!important;
+}
+
+.container-background {
+  background: linear-gradient(
+  rgba(255, 255, 255, 1), 
+  rgba(255, 255, 255, .3)30%
+  ); 
+}
+
+main {
+  color: white;
+}
+.navbar-toggler:focus {
+  outline: 0;
+}
+
+i {
+  display: none!important;
+}
+
+.train-tracks {
+  background: linear-gradient(
+    rgba(0,0,0,.0),
+    rgba(0,0,0,.0)
+  ), url(img/train_tracks.jpg)center/cover no-repeat;
+}
+@media (min-width: 650px) { 
+  i {
+    display: inline-block!important;
+  }
+}
