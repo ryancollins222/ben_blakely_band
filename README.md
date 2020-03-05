@@ -1,2 +1,2 @@
-# ben_blakely_band
+# Ben Blakely Band
  Ben Blakely Music Website
