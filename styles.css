@@ -30,7 +30,7 @@ i {
     rgba(0,0,0,.0)
   ), url(img/train_tracks.jpg)center/cover no-repeat;
 }
-@media (min-width: 650px) { 
+@media (min-width: 992px) { 
   i {
     display: inline-block!important;
   }
